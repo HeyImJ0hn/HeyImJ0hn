@@ -29,8 +29,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HeyImJ0hn.HeyImJ0hn&left_color=black&right_color=gold"  />
-</div>
-
-###
