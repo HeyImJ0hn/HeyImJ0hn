@@ -10,6 +10,12 @@
 ###
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=HeyImJ0hn&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
@@ -28,4 +34,3 @@
 </div>
 
 ###
-
